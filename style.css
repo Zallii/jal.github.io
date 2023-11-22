@@ -69,17 +69,17 @@ font-family: 'Kdam Thmor Pro';
 height: 300px;
 width: 400px;
 margin-left: 900px;
-margin-top: -750px;
+margin-top: -800px;
 
 }
 
-.wibu{
+.wibu {
 margin-top: 500px;
 background-color: white;
 height: 500px;
-width: 600px;
+width: 400px;
 margin-left: 419px;
-}
+    }
 
 
 .wibu h3{
@@ -92,6 +92,7 @@ margin-left: 200px;
 height: 200px;
 width: 400px;
 margin-left: 100px;
+border: 2px solid black;
 }
 
 .jos{
