@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Kenia&family=Poppins:ital,wght@1,700&family=Ubuntu:wght@300&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Kenia&family=Nunito+Sans:opsz,wght@6..12,200&family=Poppins:ital,wght@1,700&family=Ubuntu:wght@300&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Kenia&family=Lato:wght@100&family=Nunito+Sans:opsz,wght@6..12,200&family=Poppins:ital,wght@1,700&family=Ubuntu:wght@300&family=Vina+Sans&display=swap');
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body{
+background-color: white;
+}
+
+header{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+padding: 30px 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+z-index: 100;
+background-color: blanchedalmond;
+}
+
+.logo{
+font-size: 30px;
+color: cornflowerblue;
+}
+
+.logo span{
+color: black;
+}
+
+.kelapa a{
+font-size: 20px;
+color: black;
+font-family:'Nunito Sans';
+text-decoration: none;
+margin-right: 40px;
+font-weight: 500;
+padding: 8px 0px;
+transition: all;
+transition-duration: 300ms;
+}
+
+.kelapa a:hover{
+color: gold;
+}
+
+.atas{
+background-color: red;
+text-decoration: none;
+padding: 8px 35px;
+border-radius: 10px;
+border: 2px solid black;
+font-weight: 500;
+}
+
+
+.cobaa{
+margin: 300px 45px;
+font-family: 'Kdam Thmor Pro';
+}
+
+.cobaa img{
+height: 300px;
+width: 400px;
+margin-left: 900px;
+margin-top: -750px;
+
+}
+
+.wibu{
+margin-top: 500px;
+background-color: white;
+height: 500px;
+width: 600px;
+margin-left: 419px;
+}
+
+
+.wibu h3{
+font-size: 30px;
+font-family: 'lato';
+margin-left: 200px;
+}
+
+.wibu img{
+height: 200px;
+width: 400px;
+margin-left: 100px;
+}
+
+.jos{
+background-color: red;
+height: 20px;
+}
+
+.jos p{
+margin-left: 700px;
+}
+
+
+
+
+
+
